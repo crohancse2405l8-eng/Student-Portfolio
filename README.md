@@ -4,7 +4,7 @@
 
 ## WELCOME
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=30&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub;Web+Developer;Python+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=30&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub;Web+Developer;Java+Developer)](https://git.io/typing-svg)
 
 
 ***HELLO,***
